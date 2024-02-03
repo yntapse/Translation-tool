@@ -1,0 +1,14 @@
+Wow	वाह
+Duck	झुको
+Duck	बतख़
+Help	बचाओ
+Jump	उछलो
+Jump	कूदो
+Jump	छलांग
+Hello	नमस्ते
+Hello	नमस्कार
+Cheers	वाह-वाह
+Cheers	चियर्स
+Exhale	सांस छोड़
+Exhale	सांस छोड़ो
+Got it	समझे कि नहीं?
